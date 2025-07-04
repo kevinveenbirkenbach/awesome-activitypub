@@ -66,6 +66,7 @@ Services supporting ActivityPub federation.
 * [Akkoma](https://akkoma.dev/AkkomaGang/akkoma/) - a popular Pleroma fork with many additional features
 * [Bonfire](https://github.com/bonfire-networks/bonfire-app) - a federated digital spaces, written in Elixir
 * [Hollo](https://hollo.social/) - A federated single-user microblogging software.
+* [CyMaIS](https://cymais.cloud) – SSO/IAM framework for unified login across multiple ActivityPub apps like Mastodon, Peertube, Pixelfed, Funkwhale, Mobilizon, Wordpress, Funkwhale, Nextcloud...
 
 ## Implementations
 Simple example of implementing ActivityPub.
